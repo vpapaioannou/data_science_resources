@@ -23,6 +23,27 @@ In case something is missing or a link is not working, please create an issue [h
 
 # Data Analysis, Machine & Deep Learning
 
+- Feature Selection
+  - [Feature Selection Techniques in Machine Learning](https://www.geeksforgeeks.org/feature-selection-techniques-in-machine-learning/)
+  - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
+  - [Feature Selection in Machine Learning Using Python](https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/)
+- Colinearity
+  - [What is multicollinearity and how to remove it?](https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f)
+  - [Detecting Multicollinearity with VIF – Python](https://www.geeksforgeeks.org/detecting-multicollinearity-with-vif-python/)
+  - [A Guide to Multicollinearity & VIF in Regression](https://www.statology.org/multicollinearity-regression/)
+  - [Scikit-Learn Warning: High Collinearity Detected in Features](https://www.slingacademy.com/article/scikit-learn-warning-high-collinearity-detected-in-features/)
+  - [A Python library to remove collinearity](https://www.yourdatateacher.com/2021/06/28/a-python-library-to-remove-collinearity/)
+  - [Numerical Issues due to multicolinearity: VIF and Condition Number](https://statlect.com/fundamentals-of-statistics/multicollinearity)
+  - [UCLA: Lesson 3 Logistic Regression Diagnostics](https://stats.oarc.ucla.edu/stata/webbooks/logistic/chapter3/lesson-3-logistic-regression-diagnostics-2/)
+  - [Multicolinearity and Condition number of logistic regresison](https://stats.stackexchange.com/questions/258710/multicolinearity-and-condition-number-of-logistic-regresison) Answer by EdM
+- Missing Data
+  - [The prevention and handling of the missing data](https://pmc.ncbi.nlm.nih.gov/articles/PMC3668100/)
+  - [Missing data in primary care research: importance, implications and approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC8243609/)
+  - [ML | Handling Missing Value ](https://www.geeksforgeeks.org/ml-handling-missing-values/)
+  - [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+  - [Missing Data: Five Practical Guidelines](https://journals.sagepub.com/stoken/default+domain/10.1177/1094428114548590/full)
+- Least Squares
+  - [Understanding Ordinary Least Squares (OLS): The Foundation of Linear Regression](https://medium.com/@VitorCSampaio/understanding-ordinary-least-squares-ols-the-foundation-of-linear-regression-1d79bfc3ca35)
 - Python Libraries
   - [Pandas](https://pandas.pydata.org/)
   - [Numpy](https://numpy.org/)
