@@ -1,5 +1,5 @@
 A collection of Data Science resources and issues encountered
-In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/data_science_resources/issues).# data_science_resources
+In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/data_science_resources/issues).
 
 # Books
 
