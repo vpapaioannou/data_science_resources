@@ -5,7 +5,8 @@ In case something is missing or a link is not working, please create an issue [h
 
 - [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 - [Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking 1st Edition](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)
-- [Storytelling with Data: A Data Visualization Guide for Business Professionals 1st Edition](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257?tag=swdbooks-20&language=en_US)
+- [Storytelling with Data: A Data Visualization Guide for Business Professionals 1st Edition](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257?tag=swdbooks-20&language=en_US) Free
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) Free
 
 # Courses
 
@@ -16,3 +17,25 @@ In case something is missing or a link is not working, please create an issue [h
 - [Notched Box Plots](https://sites.google.com/site/davidsstatistics/davids-statistics/notched-box-plots)
 - [Histograms vs. KDEs Explained](https://towardsdatascience.com/histograms-vs-kdes-explained-ed62e7753f12)
 - [From Histograms to Kernel Density Estimation](https://www.statology.org/from-histograms-to-kernel-density-estimation/)
+
+# Data Analysis, Machine & Deep Learning
+
+- Python Libraries
+  - [Pandas](https://pandas.pydata.org/)
+  - [Numpy](https://numpy.org/)
+  - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+  - [PyTorch](https://pytorch.org/)
+  - [Tensorflow - Keras](https://www.tensorflow.org/learn)
+  - [Tensorboard](https://www.tensorflow.org/tensorboard/get_started) A tool for providing the measurements and visualizations needed during the machine learning workflow.
+
+# Computational Resources for Machine & Deep Learning
+
+- [Google Colab](https://colab.research.google.com/) A free cloud service that lets you create and share interactive notebooks with code, text, and visualizations. You can use Colab for data science, machine learning, and AI applications, with access to GPUs, TPUs, and Gemini models.
+
+# Visualization
+
+- Python Libraries
+  - [Seaborn](https://seaborn.pydata.org/)
+  - [Matplotlib](https://matplotlib.org/)
+- R Libraries
+  - [ggplot2](https://ggplot2.tidyverse.org/)
