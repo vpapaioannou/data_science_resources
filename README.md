@@ -29,6 +29,7 @@ In case something is missing or a link is not working, please create an issue [h
   - [Feature Selection in Machine Learning Using Python](https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/)
 - Colinearity
   - [What is multicollinearity and how to remove it?](https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f)
+  - [Variance inflation factor](https://statlect.com/glossary/variance-inflation-factor)
   - [Detecting Multicollinearity with VIF – Python](https://www.geeksforgeeks.org/detecting-multicollinearity-with-vif-python/)
   - [A Guide to Multicollinearity & VIF in Regression](https://www.statology.org/multicollinearity-regression/)
   - [Scikit-Learn Warning: High Collinearity Detected in Features](https://www.slingacademy.com/article/scikit-learn-warning-high-collinearity-detected-in-features/)
