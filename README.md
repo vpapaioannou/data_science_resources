@@ -43,6 +43,11 @@ In case something is missing or a link is not working, please create an issue [h
   - [ML | Handling Missing Value ](https://www.geeksforgeeks.org/ml-handling-missing-values/)
   - [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
   - [Missing Data: Five Practical Guidelines](https://journals.sagepub.com/stoken/default+domain/10.1177/1094428114548590/full)
+- Categorical Variables Encoding
+  - [Encoding Categorical Features](https://towardsdatascience.com/encoding-categorical-features-21a2651a065c)
+  - [What is the difference between sklearn LabelEncoder and pd.get_dummies?](https://stackoverflow.com/questions/38413579/what-is-the-difference-between-sklearn-labelencoder-and-pd-get-dummies)
+- Align Train & Test Data
+  - [Keep same dummy variable in training and testing data](https://stackoverflow.com/questions/41335718/keep-same-dummy-variable-in-training-and-testing-data)
 - Least Squares
   - [Understanding Ordinary Least Squares (OLS): The Foundation of Linear Regression](https://medium.com/@VitorCSampaio/understanding-ordinary-least-squares-ols-the-foundation-of-linear-regression-1d79bfc3ca35)
 - Python Libraries
