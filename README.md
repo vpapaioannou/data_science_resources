@@ -49,6 +49,7 @@ In case something is missing or a link is not working, please create an issue [h
   - [Pandas](https://pandas.pydata.org/)
   - [Numpy](https://numpy.org/)
   - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+  - [lazypredict](https://lazypredict.readthedocs.io/en/stable/readme.html) Build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
   - [PyTorch](https://pytorch.org/)
   - [Tensorflow - Keras](https://www.tensorflow.org/learn)
   - [Tensorboard](https://www.tensorflow.org/tensorboard/get_started) A tool for providing the measurements and visualizations needed during the machine learning workflow.
