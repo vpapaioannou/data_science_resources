@@ -11,6 +11,7 @@ In case something is missing or a link is not working, please create an issue [h
 # Courses
 
 - [The Complete Machine Learning Course with Python](https://www.udemy.com/course/machine-learning-course-with-python/)
+- [Data Management with Databricks: Big Data with Delta Lakes](https://www.coursera.org/projects/data-management-with-databricks-big-data-with-delta-lakes)
 
 # Statistics
 
