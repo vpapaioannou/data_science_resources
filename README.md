@@ -21,6 +21,10 @@ In case something is missing or a link is not working, please create an issue [h
 - [Statistical Tests I using R](https://www.r-bloggers.com/t-tests/)
 - [Statistical Tests II using R](https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/)
 
+# SQL & Databases
+
+- [Animated Join and other operations](https://github.com/gadenbuie/tidyexplain)
+
 # Data Analysis, Machine & Deep Learning
 
 - Feature Selection
