@@ -28,6 +28,10 @@ In case something is missing or a link is not working, please create an issue [h
 
 # Data Analysis, Machine & Deep Learning
 
+- NLP
+  - Regular Expressions
+    - [Regexr: Test and build regular expressions](https://regexr.com/)
+    - [Debuggex: Undestanding and building regular expressions with diagrams](https://www.debuggex.com/)
 - Feature Selection
   - [Feature Selection Techniques in Machine Learning](https://www.geeksforgeeks.org/feature-selection-techniques-in-machine-learning/)
   - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
